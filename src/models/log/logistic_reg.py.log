@@ -1,0 +1,5 @@
+2017-11-18 15:11:47,940 __main__ 1 [INFO][<module>] start: data input
+2017-11-18 15:12:42,411 __main__ 1 [INFO][<module>] start: data input
+2017-11-18 15:12:42,425 __main__ 4 [INFO][<module>] end: data input
+2017-11-18 15:13:50,865 __main__ 1 [INFO][<module>] start: data preparation
+2017-11-18 15:13:51,524 __main__ 15 [INFO][<module>] end: data preparation

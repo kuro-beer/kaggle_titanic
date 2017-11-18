@@ -1,5 +1,2 @@
-from .process import texthandling
-
-__all__ = ['texthandling']
-
+print('loaded: src/__init__.py')
 
